@@ -10,6 +10,7 @@ schedule 页面：https://pdos.csail.mit.edu/6.828/2020/schedule.html
 
 * 全局搜索很方便，不用挨个翻文件查找。
 
+
 VSCode 全局搜索快捷键 ctrl + p 加上 `# 加内容`。
 
 ![](image/0-summary/1646449365296.png)
@@ -24,6 +25,9 @@ VSCode 全局搜索快捷键 ctrl + p 加上 `# 加内容`。
 :wq
 
 * 如果想从头再来，可以回退到上一个版本重新开始(`git reset --hard HEAD^`) 。
+
+
+
 
 或者删除分支，
 
